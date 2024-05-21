@@ -1,4 +1,4 @@
-<h2 align="left">Leetcode Solutions</h2>
+<h2 align="left">LeetCode Solutions</h2>
 
 ###
 
